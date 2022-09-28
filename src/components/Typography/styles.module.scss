@@ -1,0 +1,139 @@
+@import '/src/styles/variables';
+
+.h1 {
+  font-size: 420px;
+  line-height: 601px;
+  font-weight: 400;
+  font-family: 'Akzidenzgroteskpro', sans-serif;
+}
+.h2 {
+  font-size: 93px;
+  line-height: 144px;
+  font-weight: 400;
+  font-family: 'Akzidenzgroteskpro', sans-serif;
+}
+.h3 {
+  font-size: 96px;
+  line-height: 88px;
+  font-weight: 400;
+}
+.h4 {
+  font-size: 64px;
+  line-height: 88px;
+  font-weight: 400;
+  font-family: 'Akzidenzgroteskpro', sans-serif;
+}
+.h5 {
+  font-size: 64px;
+  line-height: 79px;
+  font-weight: 400;
+}
+.h6 {
+  font-size: 36px;
+  line-height: 46px;
+  font-weight: 400;
+}
+
+.body1 {
+  font-size: 36px;
+  line-height: 69px;
+  font-weight: 400;
+}
+.body2 {
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 400;
+}
+.body3 {
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: 400;
+}
+.body4 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.body5 {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.label1 {
+  font-size: 48px;
+  line-height: 56px;
+  font-weight: 300;
+}
+.label2 {
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 500;
+}
+.label3 {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+}
+.label4 {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 500;
+}
+
+.center {
+  text-align: center;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+
+.light {
+  font-weight: 300;
+}
+.normal {
+  font-weight: 400;
+}
+.medium {
+  font-weight: 500;
+}
+
+
+.default {
+  color: $textMain;
+}
+.textBlack {
+  color: $textBlack;
+}
+.textGray{
+  color: $textGray;
+}
+.textBlue {
+  color: $textBlue;
+}
+.black{
+  color: $black;
+}
+.white {
+  color: $white;
+}
+.blue{
+  color: $blue;
+}
+.turquoise{
+  color: $turquoise;
+}
+.lightTurquoise{
+  color: $lightTurquoise;
+}
+.lime{
+  color: $lime;
+}
+.violet{
+  color: $violet;
+}
+
+
